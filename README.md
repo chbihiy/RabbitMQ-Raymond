@@ -21,3 +21,4 @@ The second line represents their parents in the tree
 A B C D E F
 A A A A D D
 ```
+![alt text](https://raw.githubusercontent.com/chbihiy/RabbitMQ-Raymond/master/exemple.png)
