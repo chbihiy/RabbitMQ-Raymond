@@ -9,7 +9,10 @@ Put all the files in the same directory, on the terminal execute this command
 ```
 python generate.py
 ```
-
+then open a terminal for each node, and execute the flowing command, for each node X
+```
+python Noeud_X.py
+```
 ### Changing config.txt
 The first line represents the node names
 
